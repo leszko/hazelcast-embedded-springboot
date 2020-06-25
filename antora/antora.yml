@@ -1,6 +1,3 @@
 name: springboot-embedded
 version: v0.1
 title: Hazelcast + SpringBoot
-nav:
-- modules/ROOT/nav.adoc
-
